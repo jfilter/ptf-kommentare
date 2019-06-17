@@ -70,6 +70,8 @@ No code.
 
 https://arxiv.org/abs/1702.08359
 
+Video: https://www.youtube.com/watch?v=2uQ6bgemuLw
+
 ### Dynamic Bernoulli Embeddings
 
 http://delivery.acm.org/10.1145/3190000/3185999/p1003-rudolph.pdf?ip=95.91.244.173&id=3185999&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1556101640_117c5b78e93a905c12a5eb40fe3a65af
