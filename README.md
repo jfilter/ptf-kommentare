@@ -14,6 +14,8 @@ The work is devided into serveral sub projects.
 - Website for explaining ML and NLP, as well as investigating change of language in online comments: [kommentare.vis.one](https://github.com/jfilter/kommentare.vis.one)
 - Backend to serve local views on word embeddings: [ptf-kommentare-backend](https://github.com/jfilter/ptf-kommentare-backend)
 
+This fork is used to prevent text labels from overlapping: https://github.com/jfilter/adjustText
+
 ## Sponsoring
 
 This work was funded by the German [Federal Ministry of Education and Research](https://www.bmbf.de/en/index.html).
