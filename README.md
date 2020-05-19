@@ -16,17 +16,17 @@ The work is devided into serveral sub projects:
 
 ## Create your own Visualizations of Language Change
 
-Here is quick guide on how to create your own videos.
+Here is a short guide on how to create your own videos. [An example video here](./mittelmeer.mp4).
 
 1. Divide your data in time slices & create a word embedding for each slice
 2. Save the embedding in `KeyedVectors` format of [gensim](https://radimrehurek.com/gensim/) (using [hyperhyper](https://github.com/jfiler/hyperhyper) to create stable word embeddings is advised)
 3. Install [ffmpeg](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
 4. `pip install git+https://github.com/jfilter/adjustText && pip install gensim scikit-learn matplotlib colormath`
-5. Adopt the code in this notebook (so you also need to have either [Jupyter Lab](https://jupyter.org/) or [Jupyter Notebook](https://jupyter.org/) installed.)
+5. Adopt the code in [this notebook](https://github.com/jfilter/ptf-kommentare/blob/master/notebooks/06_create_videos_last/create_video.ipynb) (so you also need to have either [Jupyter Lab](https://jupyter.org/) or [Jupyter Notebook](https://jupyter.org/) installed.)
 
-Right now, it's not _that_ easy to create those videos. However, it's doable and I'm willing to help you, if you want to use my code. The 'important' part of the code is commented thoroughly. Please [contact me](mailto:hi@jfilter.de) for assistance.
+Right now, it's not _that_ easy to create those videos. However, it's doable and I'm willing to help you. The 'important' part of the code is commented thoroughly. Please [contact me](mailto:hi@jfilter.de) for assistance.
 
-Two Papers for more scientific background:
+Two papers for a more scientific background:
 
 - [Hamilton et al.: Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](https://www.aclweb.org/anthology/P16-1141/)
 - [Hellrich et al.: The Influence of Down-Sampling Strategieson SVD Word Embedding Stability](https://www.aclweb.org/anthology/W19-2003/)
