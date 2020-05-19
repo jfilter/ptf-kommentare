@@ -16,10 +16,6 @@ The work is devided into serveral sub projects:
 
 ## Create your own Visualizations of Language Change
 
-<video>
-<source src="./mittelmeer.mp4" type="video/mp4">
-</video>
-
 Here is quick guide on how to create your own videos.
 
 1. Divide your data in time slices & create a word embedding for each slice
